@@ -1,3 +1,3 @@
 # My Data science projects
 ## Projects
-[1.project](https://github.com/govoridaa/SF_PR/tree/main/project0)
+[project 0. Угадай число](https://github.com/govoridaa/SF_PR/tree/main/project0)
